@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game Engines/Unreal Projects/GitHub/Playful_Experience/Content/UE_BLUEPRINTS/NewBlueprint.uasset",
+				"E:/Game Engines/Unreal Projects/GitHub/Playful_Experience/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Game Engines/Unreal Projects/GitHub/Playful_Experience/Content/UE_BLUEPRINTS/BP_Player.uasset",
 				"E:/Game Engines/Unreal Projects/Playful_Experience/Content/StarterContent/Audio/Collapse01.uasset",
 				"E:/Game Engines/Unreal Projects/Playful_Experience/Content/UE_BLUEPRINTS/BP_Player.uasset",
-				"E:/Game Engines/Unreal Projects/GitHub/Playful_Experience/Content/UE_BLUEPRINTS/BP_Player.uasset",
 				"E:/Game Engines/Unreal Projects/Playful_Experience/Content/Stylized_Egypt/Textures/stones_textures/T_moss_BaseColor.uasset",
 				"E:/Game Engines/Unreal Projects/Playful_Experience/Content/Stylized_Egypt/Textures/stones_textures/T_moss_Normal.uasset",
 				"E:/Game Engines/Unreal Projects/Playful_Experience/Content/Stylized_Egypt/Textures/stones_textures/T_stones_BaseColor.uasset",
